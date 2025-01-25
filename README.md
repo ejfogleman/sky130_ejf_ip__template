@@ -1,2 +1,3 @@
 # sky130_ejf_ip__template
-sky130 analog template
+Eric's sky130 analog template
+Repository naming convention: `<process>_<designer>_ip__<design-name>`
